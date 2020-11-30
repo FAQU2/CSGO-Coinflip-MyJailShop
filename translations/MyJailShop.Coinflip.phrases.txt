@@ -1,0 +1,41 @@
+"Phrases"
+{
+	"coin_spectators"
+	{
+		"en"		"Spectators are not allowed to flip the coin"
+	}
+	
+	"coin_notenough"
+	{
+		"en"		"You don't have enough credits to flip the coin"
+	}
+	
+	"coin_roundlimit"
+	{
+		"en"		"You can only flip the coin once per round"
+	}
+	
+	"coin_minimum"
+	{
+		"#format"		"{1:d}"
+		"en"		"You have to spend at least {red}{1}{orange} credits to flip the coin"
+	}
+	
+	"coin_maximum"
+	{
+		"#format"		"{1:d}"
+		"en"		"You can't spend more than {red}{1}{orange} credits on a coin flip"
+	}
+	
+	"coin_lost"
+	{
+		"#format"		"{1:d}"
+		"en"		"Unlucky! You have lost {red}{1}{orange} credits on this coin flip"
+	}
+	
+	"coin_won"
+	{
+		"#format"		"{1:d}"
+		"en"		"Lucky bastard! You have won {red}{1}{orange} credits on this coin flip"
+	}
+}
